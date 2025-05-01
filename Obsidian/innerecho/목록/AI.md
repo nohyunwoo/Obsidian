@@ -13,17 +13,4 @@
 https://complexoftaste.tistory.com/2
 
 https://github.com/SKTBrain/KoBERT
-
-!sudo apt-get update -y
-
-!sudo apt-get install python3.9 python3.9-dev python3.9-distutils -y
-
-!sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.9 1
-
-!sudo update-alternatives --config python3
-
-!wget https://bootstrap.pypa.io/get-pip.py
-
-!python3 get-pip.py
-
-!python3 --version
+ㅋㅋㅋ
