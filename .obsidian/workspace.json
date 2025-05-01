@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "e17df3721cfe33a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d46a24cdd937468f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c8382239e52473b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "졸업 요건.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "졸업 요건"
+            }
+          },
+          {
+            "id": "dbe237b2f706573b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notion/innerecho/Tesk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tesk"
+            }
+          },
+          {
+            "id": "0a25e1feded29bd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notion/innerecho/password.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "password"
+            }
+          },
+          {
+            "id": "c50dff346804e1ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/innerecho/목록/AI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "434ecee1db8a36c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8285ee741abf2de2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b50c433054ade889",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "21529eb8a93dbe06",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dbf7b6cb771a71ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f9485efd28b4f918",
+    "type": "split",
+    "children": [
+      {
+        "id": "07b8a0b5fac05c4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00588a97d85a637c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "f114974cc6fd065b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notion/innerecho/innerecho.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from innerecho"
+            }
+          },
+          {
+            "id": "9998384e9e72a660",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5a7442e9af037bb3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notion/innerecho/innerecho.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of innerecho"
+            }
+          },
+          {
+            "id": "c481f0404ca41926",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "b50c433054ade889",
+  "lastOpenFiles": [
+    "Obsidian/innerecho/password.md",
+    "Obsidian/innerecho/3차 발표.md",
+    "졸업.md",
+    "Pasted image 20250429091637.png",
+    "Obsidian/innerecho/목록/AI.md",
+    "Obsidian/innerecho/Tesk.md",
+    "Obsidian/Study List/공부.md",
+    "Obsidian/Study List/E.md",
+    "Obsidian/cloud.md",
+    "Obsidian/innerecho/환경세팅.md",
+    "Obsidian/정보처리기사.md",
+    "Obsidian/데이터 사이언스 과제-1.md",
+    "Obsidian/Project/Group Project",
+    "Obsidian/Project/personal Project",
+    "Obsidian/Project",
+    "Obsidian/Study List",
+    "Obsidian/innerecho/목록/미션.md",
+    "Pasted image 20250418090713.png",
+    "Obsidian/innerecho/어려웠던 점.md",
+    "Obsidian/innerecho/요구사항.md",
+    "Obsidian/innerecho/목록/DB.md",
+    "Obsidian/innerecho/목록/백엔드.md",
+    "Obsidian/innerecho/목록",
+    "Obsidian/innerecho/목록/UI.md",
+    "Untitled Kanban 1.md",
+    "Notion/innerecho/innerecho.md",
+    "Obsidian/innerecho",
+    "Obsidian",
+    "Welcome.md",
+    "Excalidraw/Drawing 2025-04-02 14.35.28.excalidraw.md",
+    "create a link.md",
+    "Untitled Kanban.md",
+    "Untitled.canvas",
+    "Excalidraw"
+  ]
+}
