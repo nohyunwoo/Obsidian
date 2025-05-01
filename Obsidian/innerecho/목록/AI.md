@@ -13,4 +13,8 @@
 https://complexoftaste.tistory.com/2
 
 https://github.com/SKTBrain/KoBERT
-ㅋㅋㅋ
+
+-> 라이브러리 충돌로 코랩에서 환경세팅이 되지 않았음
+-> 다른 모델을 모색
+
+----
