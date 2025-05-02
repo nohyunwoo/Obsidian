@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "졸업 요건.md",
+                "file": "Obsidian/innerecho/목록/AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "졸업 요건"
-            }
-          },
-          {
-            "id": "dbe237b2f706573b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-04-02 14.35.28.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-02 14.35.28.excalidraw"
+              "title": "AI"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,7 +193,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "89b485d369ba7244",
+  "active": "6c8382239e52473b",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-04-02 14.35.28.excalidraw.md",
     "Pasted image 20250418090713.png",

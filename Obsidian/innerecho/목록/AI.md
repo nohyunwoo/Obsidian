@@ -18,3 +18,6 @@ https://github.com/SKTBrain/KoBERT
 -> 다른 모델을 모색
 
 ----
+## **DistilBERT** 모델
+**에크만의 6가지 기본 감정**: 기쁨, 슬픔, 분노, 공포, 놀람, 혐오 + 중립
+-> 7가지
