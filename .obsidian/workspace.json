@@ -25,42 +25,16 @@
             "id": "dbe237b2f706573b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notion/innerecho/Tesk.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2025-04-02 14.35.28.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Tesk"
-            }
-          },
-          {
-            "id": "0a25e1feded29bd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notion/innerecho/password.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "password"
-            }
-          },
-          {
-            "id": "c50dff346804e1ad",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-02 14.35.28.excalidraw"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,8 +206,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c50dff346804e1ad",
+  "active": "89b485d369ba7244",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-04-02 14.35.28.excalidraw.md",
+    "Pasted image 20250418090713.png",
+    "Pasted image 20250429091637.png",
+    "Untitled Kanban 1.md",
     "Obsidian/innerecho/요구사항.md",
     "Obsidian/innerecho/목록/AI.md",
     "Obsidian/innerecho/목록/백엔드.md",
@@ -243,7 +221,6 @@
     "Obsidian/innerecho/password.md",
     "Obsidian/innerecho/3차 발표.md",
     "졸업.md",
-    "Pasted image 20250429091637.png",
     "Obsidian/innerecho/Tesk.md",
     "Obsidian/Study List/공부.md",
     "Obsidian/Study List/E.md",
@@ -255,15 +232,12 @@
     "Obsidian/Project/personal Project",
     "Obsidian/Project",
     "Obsidian/Study List",
-    "Pasted image 20250418090713.png",
     "Obsidian/innerecho/어려웠던 점.md",
     "Obsidian/innerecho/목록",
-    "Untitled Kanban 1.md",
     "Notion/innerecho/innerecho.md",
     "Obsidian/innerecho",
     "Obsidian",
     "Welcome.md",
-    "Excalidraw/Drawing 2025-04-02 14.35.28.excalidraw.md",
     "create a link.md",
     "Untitled Kanban.md",
     "Untitled.canvas",
