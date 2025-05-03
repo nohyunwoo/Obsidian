@@ -21,6 +21,7 @@ https://github.com/SKTBrain/KoBERT
 ## **DistilBERT** 모델
 **에크만의 6가지 기본 감정**: 기쁨, 슬픔, 분노, 공포, 놀람, 혐오 + 중립
 -> 7가지
+https://huggingface.co/docs/transformers/main/ko/tasks/sequence_classification
 
 # DistilBERT 기초부터 확장까지 완전 가이드
 
