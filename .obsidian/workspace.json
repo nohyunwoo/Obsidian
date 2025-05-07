@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/ㅇㅇ.md",
+                "file": "Obsidian/innerecho/목록/AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ㅇㅇ"
+              "title": "AI"
             }
           }
         ],
@@ -211,8 +211,8 @@
   },
   "active": "ac487da0522e34fd",
   "lastOpenFiles": [
-    "Obsidian/innerecho/비기능적 요구사항.md",
     "Obsidian/ㅇㅇ.md",
+    "Obsidian/innerecho/비기능적 요구사항.md",
     "Obsidian/innerecho/기능적 요구사항.md",
     "Obsidian/innerecho/목록/AI.md",
     "Obsidian/Project/personal Project/Local DB.md",
