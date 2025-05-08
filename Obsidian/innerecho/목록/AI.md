@@ -29,3 +29,4 @@ https://huggingface.co/docs/transformers/main/ko/tasks/sequence_classification
 
 ------
 ## **KoELECTRA 모델
+![[Pasted image 20250508231019.png]]
