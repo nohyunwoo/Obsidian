@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/cloud.md",
+                "file": "Obsidian/데이터 사이언스 실습 보고서.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cloud"
+              "title": "데이터 사이언스 실습 보고서"
             }
           }
         ],
@@ -211,6 +211,11 @@
   },
   "active": "ac487da0522e34fd",
   "lastOpenFiles": [
+    "Pasted image 20250509161302.png",
+    "Pasted image 20250509161253.png",
+    "Pasted image 20250509161205.png",
+    "Pasted image 20250509161140.png",
+    "Obsidian/cloud.md",
     "Obsidian/innerecho/목록/AI.md",
     "Pasted image 20250508231019.png",
     "Obsidian/innerecho/목록/UI.md",
@@ -225,7 +230,7 @@
     "Obsidian/innerecho/기능적 요구사항.md",
     "Obsidian/innerecho/비기능적 요구사항.md",
     "Obsidian/Project/personal Project/Local DB.md",
-    "Obsidian/데이터 사이언스 과제-1.md",
+    "Obsidian/데이터 사이언스 실습 보고서.md",
     "Obsidian/Study List/공부.md",
     "Obsidian/ㅇㅇ.md",
     "Excalidraw/Drawing 2025-04-02 14.35.28.excalidraw.md",
@@ -234,7 +239,6 @@
     "Untitled Kanban 1.md",
     "졸업.md",
     "Obsidian/Study List/E.md",
-    "Obsidian/cloud.md",
     "Obsidian/정보처리기사.md",
     "Obsidian/Project/Group Project",
     "Obsidian/Project/personal Project",
