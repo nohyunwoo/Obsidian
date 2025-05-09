@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/innerecho/목록/AI.md",
+                "file": "Obsidian/cloud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI"
+              "title": "cloud"
             }
           }
         ],
@@ -211,10 +211,10 @@
   },
   "active": "ac487da0522e34fd",
   "lastOpenFiles": [
+    "Obsidian/innerecho/목록/AI.md",
     "Pasted image 20250508231019.png",
     "Obsidian/innerecho/목록/UI.md",
     "Obsidian/innerecho/목록/DB.md",
-    "Obsidian/innerecho/목록/AI.md",
     "Obsidian/innerecho/목록/백엔드.md",
     "Obsidian/innerecho/목록/미션.md",
     "Obsidian/innerecho/어려웠던 점.md",
